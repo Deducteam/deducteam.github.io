@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="396.33554"
+   height="94.598145"
+   id="svg3012"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="deducteam.svg">
+  <defs
+     id="defs3014" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.5774982"
+     inkscape:cx="274.49238"
+     inkscape:cy="64.083682"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1916"
+     inkscape:window-height="1177"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata3017">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-193.48398,-445.08929)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text3875"
+       y="538.11853"
+       x="406.2576"
+       style="font-size:59.91721725px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman, Bold'"
+       xml:space="preserve"><tspan
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+         y="538.11853"
+         x="406.2576"
+         sodipodi:role="line"
+         id="tspan3881"><tspan
+   style="font-size:56px;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans"
+   id="tspan3041">⊢</tspan>EAM</tspan></text>
+    <rect
+       style="fill:#000000"
+       id="rect3043"
+       width="396.18036"
+       height="4.1059437"
+       x="193.48398"
+       y="490.17477"
+       rx="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.97095108px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="410.46225"
+       y="461.2529"
+       id="text3079"
+       sodipodi:linespacing="125%"
+       transform="scale(0.94927381,1.0534368)"><tspan
+         sodipodi:role="line"
+         id="tspan3081"
+         x="410.46225"
+         y="461.2529"
+         style="font-size:53.15933228px;font-weight:bold;fill:#ff0000;-inkscape-font-specification:Sans Bold" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="188.16187"
+       y="486.12555"
+       id="text2988"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2990"
+         x="188.16187"
+         y="486.12555"
+         style="font-size:56px;font-weight:bold;fill:#ff0000;-inkscape-font-specification:Sans Bold"><tspan
+   style="fill:#000000"
+   id="tspan2991">DEDUC</tspan>⊢</tspan></text>
+  </g>
+</svg>
